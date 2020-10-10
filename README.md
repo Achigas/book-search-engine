@@ -18,7 +18,7 @@ This book search engine allows a user to search for books and save them!
 [Book-Search-Engine](https://boiling-savannah-48416.herokuapp.com/)
 
 ## Screenshots
-![Book-Search-Login](./client/src/assets/images/book-search2.png)
+![Book-Search-Login](./client/src/assets/images/booksearch2.png)
 ![Book-Search](./client/src/assets/images/book-search1.png)
 
 
