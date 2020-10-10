@@ -37,7 +37,7 @@ type Auth {
 }
 
 type Query {
-  me: [User]
+  me: User
   }
 
 type Mutation {
