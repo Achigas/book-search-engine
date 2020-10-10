@@ -15,22 +15,21 @@ A book search engine using Google that allows users to save their books.
 This book search engine allows a user to search for books and save them!
 
 ## Deployed Link
-[Book-Search-Engine]()
+[Book-Search-Engine](https://boiling-savannah-48416.herokuapp.com/)
 
 ## Screenshots
-![Book-Search](./public/images/Book-Search-Engine.png)
+![Book-Search-Login](./client/src/assets/images/book-search2.png)
+![Book-Search](./client/src/assets/images/book-search1.png)
+
 
 ## Setup
 * Clone GitHub repository 
-* run npm install
+* run npm installl in root directiory, server directory, and client directory.
 
 ## Code and Technologies
-* HTML 
-* CSS
-* Bootstrap
-* JavaScript
 * Node.js
 * MongoDB
+* Apollo
 * Express.js
 * React
 
